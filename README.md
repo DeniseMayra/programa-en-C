@@ -1,7 +1,9 @@
 # PROGRAMA EN ANSI C
 
 :computer: Este programa guarda los datos ingresados por el usuario en un archivo del tipo .dat 
+
 :raising_hand_woman: Desarrollado por Denise Mayra Higa en Ansi C
+
 
 <img src="./tpfinalc.jpeg" alt="Imagen de consola">
 
