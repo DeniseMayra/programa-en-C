@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1655905132 source:d:\c\tpfinal\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"misfn.h"
+
+1655877447 d:\c\tpfinal\misfn.h
+
+1655905377 source:d:\c\tpfinal\misfn.c
+	<stdio.h>
+	"misfn.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
